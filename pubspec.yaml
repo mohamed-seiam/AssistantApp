@@ -35,6 +35,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  speech_to_text: ^6.5.0
 
 dev_dependencies:
   flutter_test:
@@ -78,7 +79,7 @@ flutter:
     - family: Cera Pro
       fonts:
         - asset: assets/fonts/Cera-Pro-Bold.otf
-        - asset: fonts/fonts/Cera-Pro-Medium.otf
+        - asset: assets/fonts/Cera-Pro-Medium.otf
   #         style: italic
   #   - family: Trajan Pro
   #     fonts:
